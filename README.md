@@ -17,9 +17,11 @@
 ## Tenho familiaridade
 ![C](https://img.shields.io/badge/C-2a00fc?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f6002a?style=for-the-badge&logo=javascript&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-2a00fc.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Git](https://img.shields.io/badge/git-f6002a.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-2a00fc?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-f6002a.svg?style=for-the-badge&logo=git&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-2a00fc?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-f6002a?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-2a00fc.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## Estou Aprendendo
 ![HTML5](https://img.shields.io/badge/HTML5-f6002a?style=for-the-badge&logo=html5&logoColor=white)
