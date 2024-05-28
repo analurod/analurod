@@ -32,9 +32,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=analurod&theme=transparent&bg_color=000&border_color=2a00fc&show_icons=true&icon_color=f6002a&title_color=F6002A&text_color=FFF)
 
 ## Linguagens mais Usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=analurod&layout=compact&bg_color=000&border_color=2a00fc&title_color=f6002a&text_color=FFF)
-
-
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=analurod&layout=compact&bg_color=000&border_color=2a00fc&title_color=f6002a&text_color=FFF)
 
 
 
