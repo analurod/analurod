@@ -69,7 +69,7 @@
 ## 📌 Linguagens mais utilizadas
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=analurod&layout=compact&bg_color=000&border_color=4B0082&title_color=4B0082&text_color=FFF" alt="Top Langs"/>
+  <p align="center"><img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analurod&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" /></p>
 </div>
 
 ---
