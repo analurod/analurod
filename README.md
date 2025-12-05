@@ -22,7 +22,6 @@ Atualmente estou desenvolvendo projetos e estudos em **Python, SQL, Power BI e E
   <a href="https://web.dio.me/users/analurodriza"><img src="https://img.shields.io/badge/DIO-4B0082?style=for-the-badge&logo=gitbook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/analuisarodriguesouza/"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:analurodriza@gmail.com"><img src="https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/5512997742986"><img src="https://img.shields.io/badge/WhatsApp-4B0082?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 <br><br>
